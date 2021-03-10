@@ -2,7 +2,6 @@
 
 ## Commit Log
 - main
-- feature1
-- feature2
+- feature2 2nd
 
 
